@@ -1,0 +1,4 @@
+**/*.app
+launch.json
+**/.vscode/
+**/.snapshots/
