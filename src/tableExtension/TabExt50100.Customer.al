@@ -6,6 +6,10 @@ tableextension 50100 Customer extends Customer
         {
             DataClassification = CustomerContent;
         }
+        field(50101; GM_Task_200; Text[10])
+        {
+            DataClassification = CustomerContent;
+        }
     }
 
 }
