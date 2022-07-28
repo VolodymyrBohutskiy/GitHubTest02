@@ -19,7 +19,7 @@ tableextension 50100 Customer extends Customer
         field(50103; GM_Task_203; Text[10])
         {
             DataClassification = CustomerContent;
-            Caption = 'GM_Task_203';
+            Caption = 'GM_Task_203 adjusted description';
         }
     }
 
