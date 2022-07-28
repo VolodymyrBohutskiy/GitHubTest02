@@ -11,6 +11,6 @@ codeunit 50100 Events
 
     procedure NewProcedure()
     begin
-
+        Message('NewProcedure');
     end;
 }
