@@ -8,4 +8,9 @@ codeunit 50100 Events
         Message(MessageLbl);
         Message(Message1Lbl);
     end;
+
+    procedure NewProcedure()
+    begin
+
+    end;
 }
