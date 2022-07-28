@@ -1,8 +1,11 @@
 codeunit 50100 Events
 {
     trigger OnRun()
+    var
+        MessageLbl: Label 'Hello';
+        Message1Lbl: Label 'Hello1';
     begin
-        Message('Hello');
-        Message('Hello1');
+        Message(MessageLbl);
+        Message(Message1Lbl);
     end;
 }
