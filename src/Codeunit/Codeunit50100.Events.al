@@ -13,4 +13,9 @@ codeunit 50100 Events
     begin
         Message('NewProcedure');
     end;
+
+    procedure NewProcedureTask206()
+    begin
+        Message('NewProcedure Tsk 206');
+    end;
 }
